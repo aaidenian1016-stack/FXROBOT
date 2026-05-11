@@ -1,0 +1,4 @@
+pytelegrambotapi
+yfinance
+feedparser
+pandas
